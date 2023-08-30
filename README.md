@@ -1,2 +1,1 @@
-# repositorio1
-clase de repositorio modulo 2
+gino estoy cambiando las cosas
